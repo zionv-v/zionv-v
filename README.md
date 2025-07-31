@@ -1,4 +1,4 @@
-![zionv-v's GitHub stats](https://github-readme-stats.vercel.app/api?username=zionv-v&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zionv-v&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zionv-v&layout=compact)
 
